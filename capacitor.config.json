@@ -1,0 +1,9 @@
+```json
+{
+  "appId": "com.example.capacitorapp",
+  "appName": "Capacitor App",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "npmClient": "npm"
+}
+```
